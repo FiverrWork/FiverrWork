@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+## we are Developers (also known as "Coders")
 
-<!--
-**FiverrWork/FiverrWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="https://github.com/FiverrWork">
+        <img height="20" src="https://img.shields.io/github/followers/AryaKesharwani?label=follow&logo=github&style=flat" />
+    </a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AryaKesharwani&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AryaKesharwani&theme=vue-dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaKesharwani&layout=compact&&count_private=true&theme=vue-dark&hide_border=true" />
+  
+</p>
